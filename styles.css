@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f5f5f5;
+	
+}
+.Main-Container{
+	padding:40px;
+	background-color:#f5f5f5;
+}
+.Testimonial{
+	background-color:white;
+	border:1px solid black;
+	padding:2px;
+}
+.Text{
+	padding:10px;
+	text-align:center
+}
+.Author{
+	text-align:right;
+	font-style:italic;
+}
+
